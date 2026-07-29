@@ -13,3 +13,8 @@
     text-align: center;
     padding: 14px 16px;
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}

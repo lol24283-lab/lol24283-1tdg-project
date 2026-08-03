@@ -5,21 +5,18 @@
  overflow: hidden;}
 
 .navbar li{
- float: left;
-}
+ float: left;}
 
 .navbar li a{
     display: block;
     text-align: center;
-    padding: 14px 16px;
-}
+    padding: 14px 16px;}
 
 .flex-container{
     display: flex;
-    flex-direction: row;
-}
+    flex-direction: row;}
 
-.img{
+.flex-container img{
     width: 30%;
-    height: auto;
-}
+    height: auto;}
+
